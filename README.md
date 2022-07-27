@@ -8,5 +8,5 @@ Projeto desenvolvido no curso da Trybe ao final do bloco 7* do Módulo 1 - Funda
  7.4 - Projeto - JavaScript Testes Unitários<br><br>
 
 No projeto <strong>JavaScript Testes Unitários</strong> as funções
-numbers, circle, productDetails e getCharacter foram dadas pela instituição e foram feitos os testes para elas. Já as funções average, vqv, createStudent, calculator, arrayGenerator e myCounter foram dados os testes e desenvolvidas as funções.<br>
-Por fim, a função createMenu foi desenvolvido tanto a função, quanto os teste.
+numbers, circle, productDetails e getCharacter foram dadas pela instituição e era necessário fazer os testes para elas. Já as funções average, vqv, createStudent, calculator, arrayGenerator e myCounter foram dados os testes e tinha que desenvolver as funções.<br>
+Por fim, a função createMenu tanto a função como os testes eram pra ser desenvolvidos.
